@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Roman Shinkarenko from Russia<br><br>- 🔭 I’m working as ML Engineer at MARS LLC<br>- 📚 I'm currently styding at NUST MISIS</p>
+<p align="left">I'm Roman Shinkarenko from Russia<br><br>- 🔭 I’m working as ML Engineer at Yandex<br>- 📚 I'm currently styding at NUST MISIS</p>
 
 ###
 
